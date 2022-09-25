@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Amitesh Pandey 🐼</h1>
 <h3 align="center">App Developer| Game Developer</h3>
 
-I am an App Developer and currently pursuing bachelor's degree in Computer Science. I make games as a hobby. I watch anime whenever I'm free (I love haikyuu).
+I am an 📱App Developer and currently pursuing 🎓Bachelor's degree in 🖥️Computer Science. I make 🎮games as a hobby. I watch 📺anime whenever I'm free (I ❤️ haikyuu).
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
