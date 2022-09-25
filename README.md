@@ -15,8 +15,8 @@ I am an App Developer and currently pursuing bachelor's degree in Computer Scien
 ![](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false)    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitesh1801&repo=github-readme-stats" />
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false))">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=amitesh1801&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false))" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitesh1801&repo=convoychat" />
