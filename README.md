@@ -13,5 +13,5 @@ I am an App Developer and currently pursuing bachelor's degree in Computer Scien
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitesh1801&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh1801&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh1801&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
