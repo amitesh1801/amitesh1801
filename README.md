@@ -12,12 +12,6 @@ I am an App Developer and currently pursuing bachelor's degree in Computer Scien
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pandey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitesh-pandey-0379b2246) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19996728) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/torusinvader) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false)    
+![](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false))">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=amitesh1801&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=amitesh1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false))" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitesh1801&repo=convoychat" />
-</a>
