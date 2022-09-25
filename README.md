@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Amitesh Pandey 🐼</h1>
 <h3 align="center">App Developer| Game Developer</h3>
-# 💫 About Me:
+
 I am an App Developer and currently pursuing bachelor's degree in Computer Science. I make games as a hobby.
 
 # 💻 Tech Stack:
